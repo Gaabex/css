@@ -1,0 +1,17 @@
+#p1{
+    color: rgb(255, 0, 0);
+}
+#p2{
+    color: rgb(255, 230, 0);
+}
+#p3{
+    color: rgb(34, 255, 0);
+}
+
+.borda{
+    border: 2px solid #000000;
+}
+
+.sombra{
+    box-shadow: 0 0 10px #000000;
+}
